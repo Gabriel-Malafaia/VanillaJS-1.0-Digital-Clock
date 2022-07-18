@@ -1,1 +1,1 @@
-﻿# Digital Clock Updated in real time
+﻿# Digital clock updated in real time.
