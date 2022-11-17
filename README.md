@@ -9,7 +9,7 @@
 - CSS
 
 ## 📱 Preview 
-<p align="center"> - <a href="https://gabriel-malafaia.github.io/VanillaJS-API-ZipCode-Search/">Link do projeto</a> </p>
+<p align="center"> - <a href="https://gabriel-malafaia.github.io/VanillaJS-Digital-Clock/">Link do projeto</a> </p>
 <br>
 
 <p align="center">
